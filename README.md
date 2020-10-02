@@ -5,7 +5,7 @@
   Hello there! <br/>
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
-  I am looking for collaboration on open-source projects. You can contact me on the links provided.
+  <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1jAamWwWBkQiTtiikc6iSVxyJyzrcXIwz/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
