@@ -1,4 +1,4 @@
-### Hey there! 
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:8anshmehta@gmail.com) 
 [![Twitter][1.2]][1] &nbsp; [![LinkedIn][2.2]][2]
