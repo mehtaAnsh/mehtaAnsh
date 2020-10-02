@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:8anshmehta@gmail.com)](mailto:8anshmehta@gmail.com) 
-  You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+  <br/>You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -12,6 +12,7 @@
 
 [1]: https://twitter.com/mehtansh
 [2]: https://www.linkedin.com/in/mehtansh/
+<br/>
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
   <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
