@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:8anshmehta@gmail.com)](mailto:8anshmehta@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mehtansh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtansh/)](https://www.linkedin.com/in/mehtansh/) [![Github Badge](https://img.shields.io/badge/-mehtaAnsh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mehtaAnsh/)](https://www.github.com/mehtaAnsh/) <p align='left'>
