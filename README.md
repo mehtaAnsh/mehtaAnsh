@@ -17,8 +17,10 @@
   <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1jAamWwWBkQiTtiikc6iSVxyJyzrcXIwz/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
-## Some of my Github Stats
+## Some of my Github Stats!
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mehtaAnsh alt=mehtaAnsh /> </p>
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mehtaAnsh&show_icons=true&include_all_commits=true)](https://github.com/mehtaAnsh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaAnsh&layout=compact)](https://github.com/mehtaAnsh/github-readme-stats)
