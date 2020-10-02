@@ -1,7 +1,8 @@
 ### Hey there! 
 
-[![Gmail Badge](https://img.shields.io/badge/-8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:8anshmehta@gmail.com)](mailto:8anshmehta@gmail.com) 
-[![Twitter][1.2]][1] &nbsp; [![LinkedIn][2.2]][2].
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:8anshmehta@gmail.com) 
+[![Twitter][1.2]][1] &nbsp; [![LinkedIn][2.2]][2]
+![Icon](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
 
 <!-- Icons -->
 
