@@ -12,7 +12,6 @@
 
 [1]: https://twitter.com/mehtansh
 [2]: https://www.linkedin.com/in/mehtansh/
-<br/>
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
   <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
