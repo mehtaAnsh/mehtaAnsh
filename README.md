@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:8anshmehta@gmail.com)](mailto:8anshmehta@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-mehtansh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtansh/)](https://www.linkedin.com/in/mehtansh/) [![Github Badge](https://img.shields.io/badge/-mehtaAnsh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mehtaAnsh/)](https://www.github.com/mehtaAnsh/) <p align='left'>
-  Hello there!
+  Hello there! <br/>
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
   I am looking for collaboration on open-source projects. You can contact me on the links provided.
