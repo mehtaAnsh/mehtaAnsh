@@ -1,8 +1,17 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:8anshmehta@gmail.com)](mailto:8anshmehta@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mehtansh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtansh/)](https://www.linkedin.com/in/mehtansh/) [![Github Badge](https://img.shields.io/badge/-mehtaAnsh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mehtaAnsh/)](https://www.github.com/mehtaAnsh/) <p align='left'>
-  Hello there! <br/>
+  You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/mehtansh
+[2]: https://www.linkedin.com/in/mehtansh/
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
   <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
