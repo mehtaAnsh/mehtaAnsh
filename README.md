@@ -1,5 +1,4 @@
 ### Hey there! 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
 
 [![Gmail Badge](https://img.shields.io/badge/-8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:8anshmehta@gmail.com)](mailto:8anshmehta@gmail.com) 
 [![Twitter][1.2]][1] &nbsp; [![LinkedIn][2.2]][2].
@@ -24,6 +23,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mehtaAnsh&show_icons=true&include_all_commits=true)](https://github.com/mehtaAnsh/github-readme-stats)
+&nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaAnsh&layout=compact)](https://github.com/mehtaAnsh/github-readme-stats)
 <!--
 **mehtaAnsh/mehtaAnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
