@@ -13,10 +13,11 @@
 [1]: https://twitter.com/mehtansh
 [2]: https://www.linkedin.com/in/mehtansh/
 
+<br/>
 <p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=r1&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=mehtaAnsh&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
 </p>
-
+<br/>
 
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
