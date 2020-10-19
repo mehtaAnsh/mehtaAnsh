@@ -13,19 +13,16 @@
 [1]: https://twitter.com/mehtansh
 [2]: https://www.linkedin.com/in/mehtansh/
 
-<br/>
-<p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=mehtaAnsh&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p>
-<br/>
 
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have graduated from Shri Bhagubhai Mafatlal Polytechnic with an <b>All India Rank of 89</b> at 2019, and currently pursuing Graduation at Dwarkadas J. Sanghvi College of Engineering, slated to be graduate on 2022.
+  <br/>
   <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
   <br/>
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1gSc9di3OivtXdYZHG2JX2bJNo9_x7p7i/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats!
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mehtaAnsh alt=mehtaAnsh /> </p>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
@@ -34,6 +31,11 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mehtaAnsh&show_icons=true&include_all_commits=true)](https://github.com/mehtaAnsh/github-readme-stats)
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaAnsh&layout=compact)](https://github.com/mehtaAnsh/github-readme-stats)
+
+<br/>
+<p align="middle">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=mehtaAnsh&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+</p>
 <!--
 **mehtaAnsh/mehtaAnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
