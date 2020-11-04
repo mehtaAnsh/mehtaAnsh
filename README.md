@@ -19,7 +19,7 @@
   <br/>
   <br/>I am looking for collaboration on open-source projects. You can contact me on the links provided.
   <br/>
-</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1gSc9di3OivtXdYZHG2JX2bJNo9_x7p7i/view?usp=sharing' target=_blank><u>here</u>.</a></p>
+</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1Fi081LTPGQFZVScUnAI2JNPfct6FPY_B/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats!
 
