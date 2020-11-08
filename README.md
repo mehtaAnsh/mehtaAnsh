@@ -1,17 +1,12 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+<h2 align="center"> 👋, I am Ansh. Nice to connect!</h2> 
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/8anshmehta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:8anshmehta@gmail.com) 
-[![Twitter][1.2]][1] &nbsp; [![LinkedIn][2.2]][2]
+## 🔗 Know more about me 
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/mehtansh
-[2]: https://www.linkedin.com/in/mehtansh/
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:8anshmehta@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mehtansh/)
+[![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/mehtansh/)
 
 
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
@@ -37,7 +32,7 @@
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=mehtaAnsh&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
 </p>
 <!--
-**mehtaAnsh/mehtaAnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mehtaAnsh/mehtaAnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
