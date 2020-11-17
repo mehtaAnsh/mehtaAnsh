@@ -8,7 +8,7 @@
   <br/>I am looking for collaboration on open-source projects. 
 
 ## 🔗 Know more about me 
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Fi081LTPGQFZVScUnAI2JNPfct6FPY_B/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1cQBBMrVMrZaemd9ejKI_lM6OX6KiJH1R/view?usp=sharing)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:8anshmehta@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mehtansh/)
 [![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/mehtansh/)
