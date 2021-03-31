@@ -15,9 +15,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-black.svg?&style=for-the-badge&logo=Reddit&logoColor=red)](https://reddit.com/mehtansh)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://hackerrank.com/mehtansh)
 
-  <br/>
 
-### Languages and Tools:
+## 🛠 Languages and Tools:
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
