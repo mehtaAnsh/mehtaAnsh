@@ -12,7 +12,7 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:8anshmehta@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mehtansh/)
 [![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/mehtansh/)
-[![Reddit](https://img.shields.io/badge/Reddit-black.svg?&style=for-the-badge&logo=Reddit&logoColor=red)
+[![Reddit](https://img.shields.io/badge/Reddit-black.svg?&style=for-the-badge&logo=Reddit&logoColor=red)](https://reddit.com/mehtansh)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://hackerrank.com/mehtansh)
 
   <br/>
