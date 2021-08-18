@@ -5,7 +5,7 @@
   A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
   I have a Diploma from SBMP, Mumbai with an <b>All India Rank of 78</b> at 2019, and currently pursuing Graduation at DJSCE, Mumbai, slated to be graduate on 2022.
   <br/>
-  <br/>I am looking for collaboration on open-source projects. 
+  <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
 ## 🔗 Know more about me 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
