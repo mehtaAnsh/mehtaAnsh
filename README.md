@@ -2,8 +2,8 @@
 <h1>👋, I am Ansh. Nice to connect!</h2> 
 </p>
 
-  A curious IT student and a motivated individual with an experience of working closely with the Tech Industry.
-  I have a Diploma from SBMP, Mumbai with an <b>All India Rank of 72</b> at 2019, and currently pursuing Graduation at DJSCE, Mumbai, slated to be graduate on 2022.
+  A curious CS student and a motivated individual with an experience of working closely with the Tech Industry.
+  Completed my undergrad from DJSCE, India and pursuing MS in CS from University of Southern California.
   <br/>
   <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
